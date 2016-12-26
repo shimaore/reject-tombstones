@@ -1,0 +1,8 @@
+{
+  "name": "reject-tombstones",
+  "version": "1.0.0",
+  "description": "CouchDB design document to reject tombstones",
+  "main": "index.js",
+  "author": "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)",
+  "license": "Unlicense"
+}
